@@ -2,7 +2,6 @@ venv
 db.sqlite3
 media
 msantos-key-server.pem
-__pycache__/__init__.cpython-312.pyc
+__pycache__
 cars/openai_api
-cars/openai_api/__pycache__/client.cpython-312.pyc:2
-cars/openai_api/client.py:5
+
