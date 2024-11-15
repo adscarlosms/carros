@@ -1,0 +1,12 @@
+#python manage.py startapp accounts    pasta para gerenciar contas
+#Depois em settings -> installed_apps tem que adicionar essa nova app
+#aciona a seguinte url -> path('register/', register_view, name='register')
+#cria a view na aplicação nova accounts
+
+#em signaus:
+#Cria o arquivo signaus dentro da app car
+#É preciso entrar em apps no car e criar uma função de escuta
+
+#pip freeze detalha todas as dependências instaladas
+#pip freeze > requirements.txt onde ficam listadas as dependências para poder rodar em outras máquinas
+#pip install -r requirements.txt Isso serve para instalar as dependências onde o projeto for instalado
